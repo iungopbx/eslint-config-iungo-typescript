@@ -6,10 +6,10 @@ module.exports = {
         'plugin:jsx-a11y/recommended',
         'plugin:react/recommended',
         require.resolve('eslint-config-react-app'),
-        'ringcentral',
-        'plugin:prettier/recommended', // must be belowe ringcentral to override react prefs
-        'prettier/react', // must be belowe ringcentral to override react prefs
-        'plugin:@typescript-eslint/recommended', // must be below react-app & ringcentral to enable proper parser
+        'iungo',
+        'plugin:prettier/recommended', // must be belowe iungo to override react prefs
+        'prettier/react', // must be belowe iungo to override react prefs
+        'plugin:@typescript-eslint/recommended', // must be below react-app & iungo to enable proper parser
         'plugin:import/typescript',
     ],
     rules: {

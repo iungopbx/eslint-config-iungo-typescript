@@ -13,7 +13,7 @@
     "babel-eslint": "^10.0.3",
     "eslint-config-prettier": "^6.7.0",
     "eslint-config-react-app": "^5.1.0",
-    "eslint-config-iungo": "^3.0.0",
+    "eslint-config-iungo": "git+https://github.com/iungopbx/eslint-config-iungo.git",
     "eslint-plugin-flowtype": "^4.5.2",
     "eslint-plugin-import": "^2.19.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
